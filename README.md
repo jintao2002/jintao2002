@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+👨‍💻An undergrad exploring ways to be a qualified software engineer...
 <!--
 **jintao2002/jintao2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
